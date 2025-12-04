@@ -1,14 +1,18 @@
 name: Docker Image CI
 
 on:
+  workflow_dispatch:
   push:
     branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
+  env:
+    DOCKER_IMAGE_NAME: imagen-nueva
 
 jobs:
 
   build:
+    name: Docker Image CI
 
     runs-on: ubuntu-latest
 
