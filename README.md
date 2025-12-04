@@ -1,7 +1,8 @@
 # 📋 Aplicación CRUD de Usuarios con Spring Boot y Docker
 
 Aplicación web educativa que demuestra cómo desarrollar y desplegar una aplicación Spring Boot utilizando Docker. Este proyecto está diseñado para el módulo de "Despliegue de Aplicaciones Web".
-
+## Documentación cambios
+* Crear el archivo docker-image.yml[https://github.com/JoseAntonioDiazBusati/JoseAntonioDiazBusati_2526_DAW_u2_springboot/blob/959526d11e99232554b6b0676b012d0806c99067/.github/workflows/docker-image.yml]
 ## 📑 Tabla de Contenidos
 
 - [Características](#características)
